@@ -1,0 +1,42 @@
+C:\Users\Админ\source\repos\WinFormsMenu\WinFormsMenu\bin\Debug\net5.0-windows\WinFormsMenu.exe
+C:\Users\Админ\source\repos\WinFormsMenu\WinFormsMenu\bin\Debug\net5.0-windows\WinFormsMenu.deps.json
+C:\Users\Админ\source\repos\WinFormsMenu\WinFormsMenu\bin\Debug\net5.0-windows\WinFormsMenu.runtimeconfig.json
+C:\Users\Админ\source\repos\WinFormsMenu\WinFormsMenu\bin\Debug\net5.0-windows\WinFormsMenu.runtimeconfig.dev.json
+C:\Users\Админ\source\repos\WinFormsMenu\WinFormsMenu\bin\Debug\net5.0-windows\WinFormsMenu.dll
+C:\Users\Админ\source\repos\WinFormsMenu\WinFormsMenu\bin\Debug\net5.0-windows\WinFormsMenu.pdb
+C:\Users\Админ\source\repos\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\WinFormsMenu.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\WinFormsMenu.Form1.resources
+C:\Users\Админ\source\repos\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\WinFormsMenu.Properties.Resources.resources
+C:\Users\Админ\source\repos\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\WinFormsMenu.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\WinFormsMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\source\repos\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\WinFormsMenu.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\WinFormsMenu.AssemblyInfo.cs
+C:\Users\Админ\source\repos\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\WinFormsMenu.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\WinFormsMenu.dll
+C:\Users\Админ\source\repos\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\refint\WinFormsMenu.dll
+C:\Users\Админ\source\repos\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\WinFormsMenu.pdb
+C:\Users\Админ\source\repos\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\WinFormsMenu.genruntimeconfig.cache
+C:\Users\Админ\source\repos\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\ref\WinFormsMenu.dll
+C:\Users\Админ\source\repos\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\WinFormsMenu.Form2.resources
+C:\Users\Админ\source\repos\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\WinFormsMenu.Form3.resources
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Menu\WinFormsMenu\WinFormsMenu\bin\Debug\net5.0-windows\WinFormsMenu.exe
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Menu\WinFormsMenu\WinFormsMenu\bin\Debug\net5.0-windows\WinFormsMenu.deps.json
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Menu\WinFormsMenu\WinFormsMenu\bin\Debug\net5.0-windows\WinFormsMenu.runtimeconfig.json
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Menu\WinFormsMenu\WinFormsMenu\bin\Debug\net5.0-windows\WinFormsMenu.runtimeconfig.dev.json
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Menu\WinFormsMenu\WinFormsMenu\bin\Debug\net5.0-windows\WinFormsMenu.dll
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Menu\WinFormsMenu\WinFormsMenu\bin\Debug\net5.0-windows\WinFormsMenu.pdb
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Menu\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\WinFormsMenu.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Menu\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\WinFormsMenu.Form1.resources
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Menu\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\WinFormsMenu.Form2.resources
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Menu\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\WinFormsMenu.Form3.resources
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Menu\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\WinFormsMenu.Properties.Resources.resources
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Menu\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\WinFormsMenu.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Menu\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\WinFormsMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Menu\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\WinFormsMenu.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Menu\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\WinFormsMenu.AssemblyInfo.cs
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Menu\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\WinFormsMenu.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Menu\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\WinFormsMenu.dll
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Menu\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\refint\WinFormsMenu.dll
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Menu\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\WinFormsMenu.pdb
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Menu\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\WinFormsMenu.genruntimeconfig.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Menu\WinFormsMenu\WinFormsMenu\obj\Debug\net5.0-windows\ref\WinFormsMenu.dll
